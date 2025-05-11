@@ -19,7 +19,7 @@ const Header: React.FC = () => {
   const [navigation, setNavigation] = useState<NavItem[]>([
     { name: 'Home', href: '/', current: true },
     { name: 'Safety Measures', href: '/SafetyMeasures', current: false },
-    { name: 'Forecast', href: '/forecast', current: false },
+    { name: 'Caster AI ', href: '/caster', current: false },
     { name: 'News', href: '/news', current: false },
     { name: 'About', href: '/about', current: false },
     { name: 'Contact', href: '/contact', current: false },

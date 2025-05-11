@@ -1,0 +1,137 @@
+{
+    "greet_user": {
+        "patterns": [
+            "hello",
+            "hi there",
+            "hey caster",
+            "good morning",
+            "good evening",
+            "hi",
+            "hey"
+        ],
+        "responses": [
+            "Hey there! 😊 I'm Caster, your friendly guide for weather, geography, and disaster awareness. How can I assist you today?"
+        ]
+    },
+    "thank_user": {
+        "patterns": [
+            "thanks",
+            "thank you",
+            "appreciate it",
+            "that's helpful",
+            "thanks a lot"
+        ],
+        "responses": [
+            "You're most welcome! 🙌 I'm always here to help. Let me know if there's anything else you'd like to know!"
+        ]
+    },
+    "get_weather": {
+        "patterns": [
+            "what's the weather in",
+            "how's the temperature in",
+            "tell me the forecast for",
+            "is it going to rain",
+            "what's the humidity in",
+            "show me today's weather in",
+            "give me a weather update",
+            "how's the wind speed in"
+        ],
+        "responses": [
+            "Sure! Just give me a second to fetch the latest weather updates for that location. 🌦️ You're going to be well-prepared!",
+            "Let me check the current weather conditions for you. One moment please! ⏳",
+            "I'll get you the most recent weather information right away! 🌡️"
+        ]
+    },
+    "weather_precautions": {
+        "patterns": [
+            "what should i do in a thunderstorm",
+            "tips for heavy rain",
+            "how to stay safe during a heatwave",
+            "cold weather precautions",
+            "precautions for snow storms",
+            "how to protect myself in extreme weather",
+            "what to do during bad weather"
+        ],
+        "responses": [
+            "Great question! 🌡️ Here are some smart precautions:\n- ⛈️ Stay indoors during thunderstorms\n- ☀️ Stay hydrated and avoid direct sun during heatwaves\n- ❄️ Dress warmly and avoid icy roads in snowstorms\n- 💨 Secure loose objects outside during high winds\nAlways follow official alerts and keep emergency contacts handy!"
+        ]
+    },
+    "natural_disaster_info": {
+        "patterns": [
+            "tell me about tsunamis",
+            "what causes earthquakes",
+            "what is a hurricane",
+            "explain wildfires",
+            "information about volcanic eruptions",
+            "how do landslides happen",
+            "why do cyclones occur"
+        ],
+        "responses": [
+            "Absolutely! Here's a quick briefing:\n🌊 **Tsunamis**: Massive sea waves from underwater earthquakes or volcanic activity.\n🌍 **Earthquakes**: Caused by sudden shifts in Earth's tectonic plates.\n🌪️ **Hurricanes**: Huge rotating storms that form over warm oceans.\n🔥 **Wildfires**: Uncontrolled fires in forests or grasslands, often due to heat or lightning.\n🌋 **Volcanoes**: Form when magma escapes through the Earth's crust.\nWould you like to learn about how to stay safe during one?"
+        ]
+    },
+    "disaster_precautions": {
+        "patterns": [
+            "how to stay safe in an earthquake",
+            "what to do during a flood",
+            "wildfire survival tips",
+            "precautions for hurricanes",
+            "how to prepare for a cyclone",
+            "emergency plan for natural disasters",
+            "steps to take in a landslide"
+        ],
+        "responses": [
+            "Your safety is important! 🚨 Here are precautions you can take:\n- 🌍 **Earthquake**: Drop, cover, and hold on. Stay away from glass.\n- 🌊 **Flood**: Move to higher ground. Don't walk or drive through floodwater.\n- 🔥 **Wildfire**: Evacuate early, keep air clean indoors, wear masks.\n- 🌪️ **Hurricane/Cyclone**: Stay in a storm shelter, stock up on essentials.\nKeep an emergency kit and know your local evacuation routes!"
+        ]
+    },
+    "emergency_contacts": {
+        "patterns": [
+            "whom to call during a disaster",
+            "emergency help in a flood",
+            "who helps in an earthquake",
+            "how to get help during a storm",
+            "disaster helpline numbers"
+        ],
+        "responses": [
+            "In an emergency, don't wait—call for help right away:\n📞 **Emergency Numbers**: 112 (global), 911 (US), 100 (India - police), 101 (fire), 108 (ambulance)\n🚑 Also contact: local disaster response units, Red Cross, or city helpline centers.\nStay calm, stay safe. Help is just a call away."
+        ]
+    },
+    "geography_facts": {
+        "patterns": [
+            "tell me a geography fact",
+            "what is the largest ocean",
+            "which country has the most islands",
+            "what's the tallest mountain",
+            "what's the longest river",
+            "which is the biggest desert",
+            "tell me about tectonic plates"
+        ],
+        "responses": [
+            "Let's learn something cool! 🌍\n- 🌊 **Largest Ocean**: Pacific Ocean\n- 🏔️ **Tallest Mountain**: Mount Everest (8,848m)\n- 🌵 **Largest Desert**: Antarctica (yes, it's a cold desert!)\n- 🌍 **Most islands**: Sweden, with over 260,000 islands!\nWant to explore more geography trivia with me?"
+        ]
+    },
+    "country_weather": {
+        "patterns": [
+            "what is the climate in",
+            "describe the weather in",
+            "tell me about climate",
+            "what kind of weather does",
+            "how's the weather in tropical countries"
+        ],
+        "responses": [
+            "Here's a quick climate snapshot:\n🇮🇳 **India**: Ranges from tropical in the south to alpine in the north.\n🇨🇦 **Canada**: Very cold winters, mild summers.\n🇷🇺 **Russia**: Harsh winters, short warm seasons.\n🇦🇺 **Australia**: Hot and dry inland, tropical in the north.\nLet me know which region or season you'd like to know more about!"
+        ]
+    },
+    "goodbye": {
+        "patterns": [
+            "bye",
+            "see you",
+            "talk later",
+            "goodbye",
+            "catch you later"
+        ],
+        "responses": [
+            "Take care! 🌤️ Stay informed, stay safe, and feel free to drop by anytime. Caster is always here for you!"
+        ]
+    }
+}

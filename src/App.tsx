@@ -1,5 +1,6 @@
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import AboutUs from './components/AboutUs';
+import Caster from './components/Caster';
 import Contact from './components/Contact'; // Make sure this import matches the filename case
 import Footer from './components/Footer';
 import Header from './components/Header';
@@ -25,6 +26,7 @@ function App() {
               <Route path="/privacy" element={<PrivacyPolicy />} />
               <Route path="/terms" element={<TermsOfService />} />
               <Route path="/SafetyMeasures" element={<SafetyMeasures />} />
+              <Route path="/caster" element={<Caster />} />
             </Routes>
           </main>
           <Footer />
